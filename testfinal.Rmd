@@ -2,7 +2,7 @@
 title: "Testfinal"
 author: "Masato Terai"
 date: "2022/8/25"
-output: html_document
+output: github_document 
 ---
 
 ```{r setup, include=FALSE}
